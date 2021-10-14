@@ -1,0 +1,150 @@
+Ashwin.java 
+COmpile:- javac Ashwin.java => .class
+Run :- java Ashwin 
+
+JAVA Is platform independent. 
+
+After compilation java program is converted into byte code
+JVM (JAVA virtual machine.) (mini operating system of java.) (Virtual OS)
+
+1. JAVA works on JVM 
+
+Q2. JAVA, which is your main OS ?
+JAVA Doesnt knows its main os.
+
+JVM, which is main os?
+Windows, mac ,linux etc.
+
+TODO: JAVA IS ROBUST:- 
+code 
+error
+code
+
+try(){
+code 
+error
+code
+} catch(){
+if(error){
+    kay naka karu
+}
+}
+
+TODO: Remainder, ha code ajun complete nahi.
+
+TODO: Execution always starts from main.
+
+
+FLAVOURS OF JAVA
+1. J2SE JAVA 2 Standard Edition. (core java) Syntax, OOPS, 
+2. J2EE JAVA 2 Enterprice Edition.  (advanced java ) JSP, Servlet, Spring , Spring BOOT, JDBC etc
+3. J2ME Java 2 Mobile Edition. (Android Development.)
+
+JAVA CODE => Javac Compiler => Converted into .class file(byte code)
+ => Class loader => Byte code verifier => Interpretor => Execute by JVM.
+
+10/08/2021  ==================================================================================
+
+ JDK (JAVA Development Kit) ======================= JRE (JAVA Runtime Environment.)
+
+[] //Square Brackets. (Opening closing square brackets )
+{} // Curly Braces/Brackets.  (Opening closing curly brackets )
+() // Paranthesis.  (Opening closing paranthesis )
+// Forward Slash.
+\\ Backword Slash.
+`` Tilde Operator.
+<> Angular brackets.
+: Colen
+; semi-colen
+"" Double Quotes.
+
+ Our First JAVA Program.:- (How to write java Code => Compile It => Run it.)
+ 1. Open Nottepad.
+ 2. create a Class{//your code here. public static void main(String[] args){}}
+ 3. Save the program
+ 4. CMD(Command Prompt) => navigate to the directory in which program is saved. 
+ (E: // cd(change Directory) // dir(current working directory) )
+ 5. Comppile the program. javac FileName.java
+ 6. Run the Program. Commands => java FileName.
+
+ RULES:-
+ 1. class Ashwin{} // First letter should be capital. 
+ 2. class AshwinTambe{} //use CamelCasing  
+ 3.  Program should compulsarly saved by Class Name ONLY.
+
+8/10/2021  ==================================================================================
+DATATYPES.
+Scopes in JAVA. 
+Array Creation Syntax.
+Literals. (true, false, null);
+Command Line Arguments.
+Object Orientation.
+
+
+9/10/2021  ==================================================================================
+char sumit="efbbjfj4nfbfjegber";
+int suumitInt; //40
+double sumitDiouble; // 40.8 40 
+
+1. DATATYPES. (every class is a datatype in java.)
+char                    size= 2bytes            DefaultValue =>  \0    
+int                     size 4bytes             DefaultValue => 0
+float                   size = 4bytes           Defaut Value = 0.0f
+double                  size = 8bytes           DefaultValue = 0.0
+boolean(new)(true/false)            size = 1bit             flase 
+byte (new)              size = byte             DefaultValue = \0
+
+2.Scope
+"class Scope " := 
+class XYZ {
+
+    class Ashwin {
+        rgferg 
+        rgergerg
+        rergerge
+        erggergre
+        erggergre
+
+        void sumit(){
+            jwdh njwdn karu
+            njwdldnwd
+        }
+
+    }
+
+    class Sumit {
+        erggergre
+        sumit();
+    }
+}
+
+3. Array Creation Syntax.
+4. IF/ELSE Condition.
+5. TODO: TERNERY Operator. 
+6. EVEN/ODD in FOR, WHILE, DO-WHILE.
+
+11/10/2021  ==================================================================================
+Command Line Arguments.
+Object Orientation. class, object, Pillars of OOPs
+
+Command Line Arguments :-
+    The arguments which are passing from the command prompt is called command
+    line arguments.
+    Case 1.
+    Case 2.
+
+Future:-
+{
+Github
+JAVA
+OOPS
+SQL
+DS-ALGO.
+HTML  = HARD, Bootstrap 
+CSS = HARD
+JavaScript
+ReactJS Typescript
+ }
+
+ 
+

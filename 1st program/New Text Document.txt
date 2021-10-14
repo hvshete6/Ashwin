@@ -1,0 +1,21 @@
+class Sumit{
+    System.out.println("Hello Sumit");
+}
+
+class Ashwin{
+    System.out.println("Hello Ashwin");
+}
+
+class Harsh{
+    
+
+    public static void main(String[] args){
+        System.out.println("Hello Harsh");
+        Ashwin ashu = new Ashwin(); //object created of class Ashwin.
+        Sumit manoj = new Sumit(); //object created of class Ashwin.
+        ashu();
+        manoj();
+
+    }
+
+}
