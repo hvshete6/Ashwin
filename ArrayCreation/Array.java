@@ -1,5 +1,6 @@
 public class Array {
 
+
     //What is array ?
     //Array is derived datatype, which is used to store homogeneous data in sequential manner.
     //+ concatenation operator.
@@ -7,6 +8,29 @@ public class Array {
         int sumit[] = {5,9,8,3,4,7,6,1,2}; //1st method.
 
         //Print even numbers in an array. //2 4 6 8 
+
+
+        // void Sumit(){
+
+        // }
+        // void Sumit(){
+
+        // }
+        // void Sumit(){
+
+        // }
+        // void Sumit(){
+
+        // }
+        // void Sumit(){
+
+        // }
+        // void Sumit(){
+
+        // }
+        // void Sumit(){
+
+        // }
 
         for(int i=0; i<sumit.length ; i++){
             // System.out.println(sumit[i]%2 == 0 ? sumit[i] + " is even" : "");
