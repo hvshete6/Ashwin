@@ -156,6 +156,13 @@ print type of primitive datatype Doubts Solved.
 
 16/10/2021  ==================================================================================
 Object Orientation.
+
+4 pillars of Object Orientation.
+1.Abstraction
+2.Encapsulation
+3.Inheritance
+4.Polymorphism.
+
 class :- 
 1. class is a collection of variables and related member function. 
 2. class is a design time entity.
