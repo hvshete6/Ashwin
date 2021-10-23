@@ -158,9 +158,9 @@ print type of primitive datatype Doubts Solved.
 Object Orientation.
 
 4 pillars of Object Orientation.
-1.Abstraction
-2.Encapsulation
-3.Inheritance
+1.Abstraction (Data Hiding (public,private, protected))
+2.Encapsulation (Hiding the process.)
+3.Inheritance 
 4.Polymorphism.
 
 class :- 
@@ -227,6 +227,11 @@ any Class is a best exapmle of encapsulation.
 
 
 Inheritance.
+1. Single Level Inheritance. (Done)
+2. MultiLevel Inheritance. (Done)
+3. Hierarchical Inheritance. (Done)
+4.Multiple Inheritance is not applicable in JAVA because of ambigutiy(confusion). (Done.)
+5.Upcasting and Downcasting.
 
  
 
